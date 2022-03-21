@@ -1,2 +1,3 @@
 # BinaryGame-GUI
- MD22W GUI for BinaryGame Project
+GUI for BinaryGame Project
+MDW22♥

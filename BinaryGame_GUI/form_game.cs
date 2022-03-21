@@ -122,6 +122,8 @@ namespace BinaryGame_GUI
                 label4.Visible = false;
                 label5.Visible = false;
                 timeleft = 60;
+                score = 0;
+                label2.Text = score.ToString();
                 label3.Text = timeleft.ToString();
                 button2.Visible = true;
 
